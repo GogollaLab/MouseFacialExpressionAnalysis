@@ -11,12 +11,7 @@ DOI: 10.1126/science.aaz9468
 ⚠️ This GitHub repository only contains a copy of the main analysis notebook and its rendered HTML version.
 It is not the primary distribution point for the code and data.
 
-The official archive for this project — including:
-	•	the full analysis code,
-	•	all associated data,
-	•	and supporting files from the manuscript
-
-is hosted on Zenodo:
+The official archive for this project — including the full analysis code, associated data, and supporting files from the manuscript is hosted on Zenodo:
 
 https://doi.org/10.5281/zenodo.3618395
 
